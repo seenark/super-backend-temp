@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"bitbucket.org/atiwataqs/super-backend/config"
 	"github.com/golang-jwt/jwt"
+	"github.com/seenark/super-backend-temp/config"
 
 	"golang.org/x/crypto/bcrypt"
 )
