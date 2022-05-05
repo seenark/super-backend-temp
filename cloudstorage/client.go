@@ -6,7 +6,6 @@ import (
 	"io"
 	"log"
 	"mime/multipart"
-	"os"
 	"time"
 
 	"cloud.google.com/go/storage"
@@ -21,7 +20,7 @@ type ClientUploader struct {
 }
 
 func NewGoogleStorageUploader() *ClientUploader {
-	os.Setenv("GOOGLE_APPLICATION_CREDENTIALS", "./aumaum-can-dlt-on-iam-setting-1a8fa2f46228.json") // FILL IN WITH YOUR FILE PATH
+	// os.Setenv("GOOGLE_APPLICATION_CREDENTIALS", "./aumaum-can-dlt-on-iam-setting-1a8fa2f46228.json") // FILL IN WITH YOUR FILE PATH
 	cfg := config.GetConfig()
 	client, err := storage.NewClient(context.Background())
 	if err != nil {
