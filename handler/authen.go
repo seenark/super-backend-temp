@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"bitbucket.org/atiwataqs/super-backend/authen"
-	"bitbucket.org/atiwataqs/super-backend/repository"
 	"github.com/gofiber/fiber/v2"
+	"github.com/seenark/super-backend-temp/authen"
+	"github.com/seenark/super-backend-temp/repository"
 )
 
 func NewAuthHandler(router fiber.Router, authenDb repository.AuthenticationRepository) {

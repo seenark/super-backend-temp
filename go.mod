@@ -1,5 +1,4 @@
-module bitbucket.org/atiwataqs/super-backend
-
+module github.com/seenark/super-backend-temp
 // +heroku goVersion go1.16
 go 1.16
 

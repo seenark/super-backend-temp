@@ -6,10 +6,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"bitbucket.org/atiwataqs/super-backend/cloudstorage"
-	"bitbucket.org/atiwataqs/super-backend/repository"
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
+	"github.com/seenark/super-backend-temp/cloudstorage"
+	"github.com/seenark/super-backend-temp/repository"
 )
 
 func NewDigitalCertTypeHandler(router fiber.Router, certTypeRepo repository.IDigitalCertTypeRepository, uploader *cloudstorage.ClientUploader) {

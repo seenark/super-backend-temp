@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"bitbucket.org/atiwataqs/super-backend/config"
 	"cloud.google.com/go/storage"
+	"github.com/seenark/super-backend-temp/config"
 )
 
 type ClientUploader struct {

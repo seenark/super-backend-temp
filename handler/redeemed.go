@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"bitbucket.org/atiwataqs/super-backend/repository"
 	"github.com/gofiber/fiber/v2"
+	"github.com/seenark/super-backend-temp/repository"
 )
 
 func NewRedeemedHandler(router fiber.Router, redeemedRepo repository.IRedeemedRepository) {
