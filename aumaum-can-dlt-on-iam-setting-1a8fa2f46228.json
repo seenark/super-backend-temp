@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aumaum-can-dlt-on-iam-setting",
+  "private_key_id": "1a8fa2f46228e7d12a3f590e090f1a0887ea0cb4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeWLDZYBuRXcXg\nqHf7YeJgxXnOCFfKM9N5hLoCBOq986qKqbWE5LerJ9/iZaZW+INVzTD9Z7WrEIqG\n/gpi7mb/irh7q7Qx+Np5OsFDAj1CH8ZCiE8unU3ix5NVAATPvHlrKdSAbv7jru/6\ncFwOcG3EIfIGaAbcKE9ibdCfJ3gCdg17grDhcKvEiwUmDW8Y4nGv0BhUuDTyX04P\nHgGEC5IpAZQKI8WzvXlLWqfdXNdhq70dqiJxZwAz64KNcVPe43qBDkPL4XTdUWnJ\nLyeVWurQkyy4Dd2XpeXP7I34nZNP5AWNJtAeKAv7Z5fywdZCZ3PSIeApzGYJh9Au\nY+xMeEMzAgMBAAECggEAJqzU7RL7SMMVnKypOX4L88Tn3jnNb3a/FTQk1m9rAmAs\nbFfNHRtb/PLtTPe07BMgyOkoKQyWo6SToSsVUFqYT5wLOTGT/oygl/GQ2JQIcEkg\nfImchW8oYdaLFry9cBvBsDn0TDZQDT5iINImueQd+0SrP4NTAZza3tihlu3l8vuN\nzXdMRjyiEGhkNtGl8q6uPDkOli8HWmGXPYKLQuiwqz61UvOh3oTZB64p4j2PTTx5\np4t3NrluycRto1I39eK5VYLWF/F03C8ce5lD2OLEkt8EZJdoUV6CG0P4mIIxc4E9\nT+jY4EhEEhbwJkOjO4m+r3m8Jkn7AivzfPAsAuyU+QKBgQDb4sZhKzM9VoRhCFbi\ny280R4WYj2Z6dZ/d+WLtS4+Lajke3zt0dXWgVWktp5z8aocmHGvbbarkH8O2f/r3\na184hrw2XDyxv3sS1knS+OpP5993Gf4vgPhl7gHAiliwdqVeohDyzbjKEPRu3zdB\n8YdOxNanh8Gp1j22TQC4xqPcfQKBgQC4WnUM+wLofNwzokgCFfHDB8zw6txpRK1f\nLb1eoPvJA2cpxBrsDZo8E6/pvRtsL2TV45cfVTmM9EMPBPC8LwYNrUulRvbv93hz\nNozdt3lk16j1OlUC2uYPJsQNux5scPWVOke770pzskQrT+b+tu1iJETgxFxf6xTp\n72cez2+dbwKBgB+vmi6+bu/T29evv/WGo0vBUrsdTwMumA8AtQTE8raAZCLSwFqT\n4pNsO2/cy36ES11ukwxXzVx6R1WxM5Ub3+jhYZXjzMtAcJfSUWkZfYpuO4GKOVrX\nFvR5S79XMFidgE8Ww6J5irtzngWsHOZfy8PKEbSql3nF6bavef8mgM5xAoGAWdlU\ndQgdibvZAp1UJRgW5Wv22XBODkw3h0zen7EsJfMvo259hJC4nBEoSm4tYFPU/F3Y\n+J9r1iPyTu6kecMdWysb1Ci7D4d4QAbVLvZOBvUI1sQgTKztNXM6WErbcBS5zIpE\nDfd5PNwkV0uxFHGJTqzImRd6whDr93wDsUN+bacCgYEAx5iI+NS8tDpHvfnATbQr\nEH0ldcQ+7YcXjjSTe48h3kMvvpNEZtmjA/gcE/tzH/MR2ttHt/lZC+umnTx0ui6v\nbXhq54+4ni/2GeCVkVL38M+VEkpX5xNOQima/nPKBb3B0X7+HdR7TesqSstXmrrl\nBi3vae4G14Ay+LRZou+/n20=\n-----END PRIVATE KEY-----\n",
+  "client_email": "superx-uploader@aumaum-can-dlt-on-iam-setting.iam.gserviceaccount.com",
+  "client_id": "111968099837667144031",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/superx-uploader%40aumaum-can-dlt-on-iam-setting.iam.gserviceaccount.com"
+}

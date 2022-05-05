@@ -1,0 +1,19 @@
+environment: dev
+
+app:
+  domain: http://localhost:8000
+  port: 8000
+  secretkey: secretkey
+  refresh: refresh
+  allow_origin: "*"
+mongo:
+  # username: root
+  # password: HadesGod
+  # url: localhost:27017
+  username: HadesGod3
+  password: HadesGod
+  url: hdgcluster.xmgsx.mongodb.net
+google:
+  project_id: aumaum-can-dlt-on-iam-setting
+  bucket_name: super_x_token_test
+# REDISHOST: localhost:6379
