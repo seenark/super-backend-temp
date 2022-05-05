@@ -84,7 +84,7 @@ func main() {
 	newApp.Static("/images", handler.StaticPath)
 
 	// app.Listen(fmt.Sprintf(":%d", cfg.App.Port))
-	app.Listen("")
+	app.Listen(fmt.Sprintf(":%d", cfg.Port))
 }
 
 // func initTimeZone() {
