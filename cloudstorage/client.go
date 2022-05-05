@@ -63,7 +63,7 @@ func (c *ClientUploader) DeleteFile(fileName string) error {
 
 	err := c.cl.Bucket(c.bucketName).Object(c.uploadPath + fileName).Delete(ctx)
 	if err != nil {
-		return fmt.Errorf("Delete: %v", err)
+		return fmt.Errorf("delete: %v", err)
 	}
 	return nil
 

@@ -11,7 +11,7 @@ type Configuration struct {
 	Mongo       MongoConfig  `mapstructure:"MONGO"`
 	App         AppConfig    `mapstructure:"APP"`
 	Google      GoogleConfig `mapstructure:"GOOGLE"`
-	Port        int          `mapstructure:"GOOGLE"`
+	Port        int          `mapstructure:"PORT"`
 	// REDISHOST   string
 }
 
